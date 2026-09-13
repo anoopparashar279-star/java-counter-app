@@ -34,15 +34,12 @@ public class CounterApp {
                     break;
 
                 case 4:
-                    System.out.println("Exiting now");
+                    System.out.println("Exiting...");
                     scanner.close();
                     return;
 
                 default:
-                    System.out.println("Invalid option");
-
-
-                    hehehehehehehehheheheh
+                    System.out.println("Invalid option: Choose from 1-4");
             }
         }
     }
