@@ -40,6 +40,9 @@ public class CounterApp {
 
                 default:
                     System.out.println("Invalid option");
+
+
+                    hehehehehehehehheheheh
             }
         }
     }
