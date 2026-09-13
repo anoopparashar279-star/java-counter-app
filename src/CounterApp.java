@@ -39,7 +39,7 @@ public class CounterApp {
                     return;
 
                 default:
-                    System.out.println("Invalid option");
+                    System.out.println("Invalid option: Choose from 1-4");
             }
         }
     }
